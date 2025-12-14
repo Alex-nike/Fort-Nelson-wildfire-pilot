@@ -1,0 +1,9 @@
+system:index,area_km2,percent_of_fire,severity_class,severity_label,.geo
+0,44.96830516846565,0.46691427099318294,0.0,High Regrowth,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,485.51954499335915,5.041239681020676,1.0,Low Regrowth,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,860.6947658985395,8.936753734916822,2.0,Unburned,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,2469.2515589566265,25.638697905775498,3.0,Low Severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,1701.2185051123477,17.66406795050104,4.0,Moderate-Low Severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,1269.7171688552064,13.183709371357333,5.0,Moderate-High Severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,1239.3619166058184,12.868525145006359,6.0,High Severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,1560.223628600661,16.200091940429093,7.0,Extreme Severity,"{""type"":""MultiPoint"",""coordinates"":[]}"
